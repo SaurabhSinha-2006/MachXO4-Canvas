@@ -1,6 +1,6 @@
 # MachXO4-Canvas
 
-![MachXO4 Canvas 3D Render](Doc/machx04_devboard.png)
+![MachXO4 Canvas 3D Render](Doc/machx04_devboard_3d.png)
 
 **MachXO4-Canvas** is a flexible, beginner-friendly FPGA development board designed specifically for educational use and DIY assembly. Built on a standard 100x100mm 2-layer PCB, this board eliminates standard manufacturing and assembly bottlenecks by utilizing robust, easy-to-solder components, including a massive through-hole USB-A female connector. 
 
